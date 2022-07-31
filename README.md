@@ -1,6 +1,6 @@
 ![badge](https://img.shields.io/badge/MADE%20WITH-HTML%20%26%20CSS-blue)
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-10--12hrs-red)
-[![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project11-28722.netlify.app/)
+[![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project11-31722.netlify.app/)
 
 # Project-11: Hosting Landing Page
 
@@ -8,7 +8,7 @@
 
 - It took me 10-12hrs to make this project.Please find link of the project below:
 
-[![badge](https://img.shields.io/badge/LINK%20OF-PROJECT--11-orange)](https://project11-28722.netlify.app/)
+[![badge](https://img.shields.io/badge/LINK%20OF-PROJECT--11-orange)](https://project11-31722.netlify.app/)
 
 ---
 
